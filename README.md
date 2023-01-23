@@ -154,7 +154,8 @@ h1{
 ```
 
 ## OUTPUT:
-![OUTPUT][image](https://user-images.githubusercontent.com/119393019/214031640-eb12dc6f-f70c-4e89-9f99-579aeb7c2b1e.png)
+![OUTPUT]![image](https://user-images.githubusercontent.com/119393019/214032116-9f1043d7-9b12-4805-8354-52db52c86f3f.png)
+
 
 
 ## HTML VALIDATOR:
