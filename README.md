@@ -154,10 +154,12 @@ h1{
 ```
 
 ## OUTPUT:
-![OUTPUT](./out(2).png)
+![OUTPUT][image](https://user-images.githubusercontent.com/119393019/214031640-eb12dc6f-f70c-4e89-9f99-579aeb7c2b1e.png)
+
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./valid(2).png)
+![HTML VALIDATOR]![image](https://user-images.githubusercontent.com/119393019/214031845-04249fe9-59a1-41fa-a4ed-0caad4d460aa.png)
+
 
 ## RESULT:
 The program for designing a simple calculator using JavaSCript is executed successfully.
